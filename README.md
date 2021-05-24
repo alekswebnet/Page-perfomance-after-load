@@ -3,7 +3,7 @@ Web performance optimization tips from Google Chrome Developers ([video on YouTu
 
 ## Measure first
 
-## Measure real data
+### Measure real data
 
 * the lab is one config out of millions
 * lab data can give false confidence
