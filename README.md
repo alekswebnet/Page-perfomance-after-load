@@ -29,7 +29,7 @@ More - [web.dev/vitals-field-measurement-best-practices/](//web.dev/vitals-field
 
 Check out [houdini.how](//houdini.how) for reusable worklets.
 
-## 💿 Minimaze memory usage
+## 🧹 Minimaze memory usage
 
 ***Smoothness and responsiveness can be affected by memory usage***
 
@@ -41,7 +41,7 @@ Check out [houdini.how](//houdini.how) for reusable worklets.
 
 More - [web.dev/detached-window-memory-leaks/](//web.dev/detached-window-memory-leaks/)
 
-## 💪 Load with best-practices
+## ✔️ Load with best-practices
 
 ### Best-practices for loading still apply
 
