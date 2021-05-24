@@ -35,4 +35,10 @@ More - [web.dev/detached-window-memory-leaks/](//web.dev/detached-window-memory-
 
 ## Load with best-practices
 
+* **code-split** JS to load as-needed
+* **preload** in idle time
+* **defer** invisible content
+* **lazy-load** embeds
+* **avoid inlining** assets into JS
+
 ## Ship modern code
