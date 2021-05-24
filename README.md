@@ -14,7 +14,7 @@ More - [web.dev/vitals-field-measurement-best-practices/](//web.dev/vitals-field
 
 ## Free up the main thread
 
-****free main thread means smoothness is governed primarily by layout****
+***free main thread means smoothness is governed primarily by layout***
 
 ### Web Worker
 
