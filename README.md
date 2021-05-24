@@ -42,3 +42,10 @@ More - [web.dev/detached-window-memory-leaks/](//web.dev/detached-window-memory-
 * **avoid inlining** assets into JS
 
 ## Ship modern code
+
+### Ship fast, modern code
+
+* transpile for 90% case
+* modern code is fast
+* avoid automatic polyfilling
+* serve legacy code via nomodule
