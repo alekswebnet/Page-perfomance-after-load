@@ -3,6 +3,8 @@ Web performance optimization tips from Google Chrome Developers ([video on YouTu
 
 ## Measure first
 
+## Measure real data
+
 * the lab is one config out of millions
 * lab data can give false confidence
 * gather **real** data from **real** users
@@ -11,6 +13,8 @@ Web performance optimization tips from Google Chrome Developers ([video on YouTu
 More - [web.dev/vitals-field-measurement-best-practices/](//web.dev/vitals-field-measurement-best-practices/).
 
 ## Free up the main thread
+
+### free main thread means smoothness is governed primarily by layout
 
 ### Web Worker
 
@@ -26,6 +30,10 @@ More - [web.dev/vitals-field-measurement-best-practices/](//web.dev/vitals-field
 Check out [houdini.how](//houdini.how) for reusable worklets.
 
 ## Minimaze memory usage
+
+### smoothness and responsiveness can be affected by memory usage
+
+### Memory usage
 
 * avoid excessive memort usage
 * consider where to cache
