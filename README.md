@@ -35,7 +35,7 @@ Check out [houdini.how](//houdini.how) for reusable worklets.
 
 ### Memory usage
 
-* avoid excessive memort usage
+* avoid excessive memory usage
 * consider where to cache
 * monitor for memory leaks
 
