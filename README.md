@@ -14,7 +14,7 @@ More - [web.dev/vitals-field-measurement-best-practices/](//web.dev/vitals-field
 
 ## Free up the main thread
 
-### free main thread means smoothness is governed primarily by layout
+### ****free main thread means smoothness is governed primarily by layout
 
 ### Web Worker
 
@@ -31,7 +31,7 @@ Check out [houdini.how](//houdini.how) for reusable worklets.
 
 ## Minimaze memory usage
 
-### smoothness and responsiveness can be affected by memory usage
+### ****smoothness and responsiveness can be affected by memory usage
 
 ### Memory usage
 
