@@ -27,6 +27,12 @@ Check out [houdini.how](//houdini.how) for reusable worklets.
 
 ## Minimaze memory usage
 
+* avoid excessive memort usage
+* consider where to cache
+* monitor for memory leaks
+
+More - [web.dev/detached-window-memory-leaks/](//web.dev/detached-window-memory-leaks/)
+
 ## Load with best-practices
 
 ## Ship modern code
