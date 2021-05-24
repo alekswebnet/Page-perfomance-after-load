@@ -43,6 +43,8 @@ More - [web.dev/detached-window-memory-leaks/](//web.dev/detached-window-memory-
 
 ## Load with best-practices
 
+### Best-practices for loading still apply
+
 * **code-split** JS to load as-needed
 * **preload** in idle time
 * **defer** invisible content
@@ -57,3 +59,5 @@ More - [web.dev/detached-window-memory-leaks/](//web.dev/detached-window-memory-
 * modern code is fast
 * avoid automatic polyfilling
 * serve legacy code via nomodule
+
+More - [web.dev/publish-modern-javascript/](//web.dev/publish-modern-javascript/)
