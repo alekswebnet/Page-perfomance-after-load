@@ -12,6 +12,17 @@ Web performance optimization tips from Google Chrome Developers
 
 ## Free up the main thread
 
+### Web Worker
+
+* offload heavy lifting to a Worker
+* good for parsers, formatters, validation, number crunching
+
+### Paint Worklet
+
+* move canvas-based graphics off the main thread
+* build-in caching and batching
+* draw based on layout geometry, without forcing layout
+
 ## Minimaze memory usage
 
 ## Load with best-practices
