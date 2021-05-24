@@ -1,5 +1,5 @@
 # Page perfomance after load
-Web performance optimization tips memo from Google Chrome Developers
+Web performance optimization memo from Google Chrome Developers
 
 ## Measure first
 
