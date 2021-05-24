@@ -1,12 +1,14 @@
 # Page perfomance after load
-Web performance optimization tends memo from Google Chrome Developers
+Web performance optimization tips memo from Google Chrome Developers
 
-## 01 Measure first
+## Measure first
 
-## 02 Free up the main thread
+[Web Vitals field measurement best practices](web.dev/vitals-field-measurement-best-practices/).
 
-## 03 Minimaze memory usage
+## Free up the main thread
 
-## 04 Load with best-practices
+## Minimaze memory usage
 
-## 05 Ship modern code
+## Load with best-practices
+
+## Ship modern code
