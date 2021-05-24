@@ -8,7 +8,7 @@ Web performance optimization tips from Google Chrome Developers
 * gather **real** data from **real** users
 * send to your analytics
 
-[web.dev/vitals-field-measurement-best-practices/](//web.dev/vitals-field-measurement-best-practices/).
+More - [web.dev/vitals-field-measurement-best-practices/](//web.dev/vitals-field-measurement-best-practices/).
 
 ## Free up the main thread
 
@@ -22,6 +22,8 @@ Web performance optimization tips from Google Chrome Developers
 * move canvas-based graphics off the main thread
 * build-in caching and batching
 * draw based on layout geometry, without forcing layout
+
+Check out [houdini.how](//houdini.how) for reusable worklets.
 
 ## Minimaze memory usage
 
