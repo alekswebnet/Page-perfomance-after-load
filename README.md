@@ -8,7 +8,7 @@ Web performance optimization tips from Google Chrome Developers
 * gather **real** data from **real** users
 * send to your analytics
 
-[Web Vitals field measurement best practices](//web.dev/vitals-field-measurement-best-practices/).
+[web.dev/vitals-field-measurement-best-practices/](//web.dev/vitals-field-measurement-best-practices/).
 
 ## Free up the main thread
 
