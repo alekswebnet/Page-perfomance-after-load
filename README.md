@@ -1,4 +1,4 @@
-# Page perfomance after load - Google recomendations ✔️✨⚡️
+# Page perfomance after load ✔️✨⚡️
 Web performance optimization tips from Google Chrome Developers ([YouTube video](//www.youtube.com/watch?v=4QkuvwRftTw))
 
 ## 📐 Measure first
