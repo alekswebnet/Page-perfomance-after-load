@@ -3,8 +3,6 @@
 
 \
 &nbsp;
-\
-&nbsp;
 ## Measure first
 
 ### Measure real data
