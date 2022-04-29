@@ -1,6 +1,9 @@
 # Page perfomance after load
 > Web performance optimization tips from Google Chrome Developers ([YouTube video](//www.youtube.com/watch?v=4QkuvwRftTw))
-
+\
+&nbsp;
+\
+&nbsp;
 ## Measure first
 
 ### Measure real data
