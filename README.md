@@ -1,8 +1,6 @@
 # Page perfomance after load
 > Web performance optimization tips from Google Chrome Developers ([YouTube video](//www.youtube.com/watch?v=4QkuvwRftTw))
 
-
-
 ## Measure first
 
 ### Measure real data
@@ -12,7 +10,7 @@
 * gather **real** data from **real** users
 * send to your analytics
 
-More - [web.dev/vitals-field-measurement-best-practices/](//web.dev/vitals-field-measurement-best-practices/).
+> More - [web.dev/vitals-field-measurement-best-practices/](//web.dev/vitals-field-measurement-best-practices/).
 
 ## Free up the main thread
 
@@ -31,7 +29,7 @@ More - [web.dev/vitals-field-measurement-best-practices/](//web.dev/vitals-field
 * build-in caching and batching
 * draw based on layout geometry, without forcing layout
 
-Check out [houdini.how](//houdini.how) for reusable worklets.
+> Check out [houdini.how](//houdini.how) for reusable worklets.
 
 ## Minimaze memory usage
 
@@ -43,7 +41,7 @@ Check out [houdini.how](//houdini.how) for reusable worklets.
 * consider where to cache
 * monitor for memory leaks
 
-More - [web.dev/detached-window-memory-leaks/](//web.dev/detached-window-memory-leaks/)
+> More - [web.dev/detached-window-memory-leaks/](//web.dev/detached-window-memory-leaks/)
 
 ## Load with best-practices
 
@@ -64,4 +62,4 @@ More - [web.dev/detached-window-memory-leaks/](//web.dev/detached-window-memory-
 * avoid automatic polyfilling
 * serve legacy code via nomodule
 
-More - [web.dev/publish-modern-javascript/](//web.dev/publish-modern-javascript/)
+> More - [web.dev/publish-modern-javascript/](//web.dev/publish-modern-javascript/)
