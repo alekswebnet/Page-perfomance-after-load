@@ -23,6 +23,8 @@ More - [web.dev/vitals-field-measurement-best-practices/](//web.dev/vitals-field
 * offload heavy lifting to a Worker
 * good for parsers, formatters, validation, number crunching
 
+> Check out https://github.com/deebloo/things-you-can-do-in-a-web-worker for workers use cases
+
 ### Paint Worklet
 
 * move canvas-based graphics off the main thread
