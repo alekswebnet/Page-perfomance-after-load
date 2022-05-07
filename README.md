@@ -1,7 +1,7 @@
 # Page perfomance after load
 > Web performance optimization tips from Google Chrome Developers ([YouTube video](//www.youtube.com/watch?v=4QkuvwRftTw))
 
-## Measure first
+## 1) Measure first
 
 ### Measure real data
 
@@ -12,7 +12,7 @@
 
 > More - [web.dev/vitals-field-measurement-best-practices/](//web.dev/vitals-field-measurement-best-practices/).
 
-## Free up the main thread
+## 2) Free up the main thread
 
 ***Free main thread means smoothness is governed primarily by layout***
 
@@ -31,7 +31,7 @@
 
 > Check out [houdini.how](//houdini.how) for reusable worklets.
 
-## Minimaze memory usage
+## 3) Minimaze memory usage
 
 ***Smoothness and responsiveness can be affected by memory usage***
 
@@ -43,7 +43,7 @@
 
 > More - [web.dev/detached-window-memory-leaks/](//web.dev/detached-window-memory-leaks/)
 
-## Load with best-practices
+## 4) Load with best-practices
 
 ### Best-practices for loading still apply
 
@@ -53,7 +53,7 @@
 * **lazy-load** embeds
 * **avoid inlining** assets into JS
 
-## Ship modern code
+## 5) Ship modern code
 
 ### Ship fast, modern code
 
