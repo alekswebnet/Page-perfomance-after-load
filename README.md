@@ -31,7 +31,7 @@
 
 > Check out [houdini.how](//houdini.how) for reusable worklets.
 
-## 3) Minimaze memory usage
+## 3) Minimize memory usage
 
 ***Smoothness and responsiveness can be affected by memory usage***
 
